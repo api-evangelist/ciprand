@@ -39,7 +39,6 @@ apis:
   - name: Ciprand
     description: "Secure random string generator"
     humanURL: https://github.com/polarspetroll/ciprand
-    baseURL: https://github.com/polarspetroll/ciprand
     tags:
       - Development
     properties:
